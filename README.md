@@ -6,7 +6,7 @@
 
 -------------------------------------------------------------------------------
 
-A simple and efficient geolocation plugin.
+A simple and efficient geolocation plugin
 
 If this plugin helps you, clicking the ⭐ Star in the upper right corner would be a great support to the author~
 
